@@ -20,3 +20,22 @@ div {
         width: 200px;
     }
 }
+
+
+.text-warning {
+    text-shadow: 5px 5px 5px black,
+    -5px -5px 5px black,
+    5px -5px 5px black,
+    -5px 5px 5px black;
+    font-size: 70px;
+}
+
+.btn {
+    :hover {
+        background: black;
+    }
+}
+
+.carousel:hover {
+    opacity: 0.9;
+}
