@@ -11,3 +11,12 @@
 div {
     text-align: center;
 }
+
+.d-f {
+    max-width: 1000px;
+    margin: auto;
+    flex-wrap: wrap;
+    p {
+        width: 200px;
+    }
+}
