@@ -1,4 +1,4 @@
-# DCI Boilerplate
+# Boilerplate
 
 Development server powered by [parcel](https://parceljs.org/) with sass compilation and auto-reload.
 
